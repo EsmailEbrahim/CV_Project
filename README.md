@@ -1,1 +1,1 @@
-# CV_Project for ERPNext Course
+# CV_Python_Project for ERPNext Course
